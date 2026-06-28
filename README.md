@@ -58,3 +58,4 @@ I'm a developer who learns by building real things. I work across AI/ML, full-st
 ---
 
 *"Build tools that solve real problems. Document them so others can learn."*
+
